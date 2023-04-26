@@ -1,0 +1,1802 @@
+[
+    [
+        " Ladies and gentlemen, welcome to another Bulletproof for BJ podcast.",
+        0.0,
+        3.9
+    ],
+    [
+        " MJT and I'm here with Mr. Even Kill, Jolly.",
+        4.4,
+        7.74
+    ],
+    [
+        " That's right guys, keeping it straight and narrow.",
+        8.06,
+        9.98
+    ],
+    [
+        " My goodness, or straight and thick, it's the case maybe.",
+        10.34,
+        12.66
+    ],
+    [
+        " It's exciting. I'm hyped because it's been a lot of work in this and that is the Bulletproof",
+        13.34,
+        19.1
+    ],
+    [
+        " for BJJ app. We had to dedicate an episode because it's been a bit of a journey and there's",
+        19.1,
+        25.76
+    ],
+    [
+        " lots of cool stuff that you guys are going to get your hands on real soon.",
+        25.76,
+        29.1
+    ],
+    [
+        " You've heard us talk about it, but now it's actually out there.",
+        29.62,
+        32.32
+    ],
+    [
+        " Man, it's so good. I guess it's like many things. You never start a project thinking,",
+        33.8,
+        40.06
+    ],
+    [
+        " oh, this won't work or this will fail. But along the journey, there's many hurdles you have to overcome.",
+        40.06,
+        45.68
+    ],
+    [
+        " But then when it's done, you're like, we did it. Yes, like yeah, the plan worked.",
+        46.22,
+        51.94
+    ],
+    [
+        " And the cool thing is also we can change it or whatever, but there's been a bit of work,",
+        52.46,
+        57.8
+    ],
+    [
+        " hasn't it Joe? It's been a shitload of work. It was easily, I mean, building an app, you're like,",
+        57.8,
+        63.72
+    ],
+    [
+        " fuck how hard can it be, right? Heaps of people doing it all the time, just throughout together.",
+        63.8,
+        67.78
+    ],
+    [
+        " Yeah. And we actually had an existing product, which is our program, our website.",
+        68.12,
+        72.04
+    ],
+    [
+        " We're like, well, we just put that into an app. Like, the work's already done.",
+        72.18,
+        75.42
+    ],
+    [
+        " Sure. Yeah, fucks a lot of work. But I think the great thing is, you know, Joe had to",
+        75.74,
+        81.04
+    ],
+    [
+        " a little bit of prior experience. So he came in knowing and I already had, I was a kind of",
+        81.1,
+        86.14
+    ],
+    [
+        " founder at Google. Don't know if you guys knew that. That's what it is. Yeah. But you know,",
+        86.14,
+        90.08
+    ],
+    [
+        " it's always good to have those skills. I already had some ideas in my mind because I've used a",
+        90.08,
+        94.72
+    ],
+    [
+        " bunch of other fitness apps and didn't like them. I was like, no, it doesn't tick my box as a",
+        94.72,
+        100.46
+    ],
+    [
+        " Jiu Jitsu person. I want a Jiu Jitsu training app. So something where I can log my Jiu Jitsu,",
+        100.46,
+        107.22
+    ],
+    [
+        " log my lifting, do all these things and keep it in one place. And that's what I wanted from it.",
+        107.44,
+        113.18
+    ],
+    [
+        " And then, you know, we went to this whole process of what features should we have. And yeah,",
+        113.66,
+        118.32
+    ],
+    [
+        " it's kind of crazy. I mean, where would you like to start with a Jiu Jitsu in terms of what you feel",
+        118.34,
+        122.56
+    ],
+    [
+        " the app brings or what you like about it? Well, why don't we, why don't we talk about why we",
+        122.56,
+        127.4
+    ],
+    [
+        " needed to build the app first? Okay. Because I think like, for folks who have listened to our earlier",
+        127.4,
+        131.96
+    ],
+    [
+        " episodes, if you've gone back to the start, or you've been here since the very beginning.",
+        131.96,
+        135.78
+    ],
+    [
+        " Yeah, you kind of know where this thing evolved from, but I'm guessing a lot of people don't.",
+        136.24,
+        140.18
+    ],
+    [
+        " We threw this online program together, aren't sure. We, you got to hook up through BJJ fanatics.",
+        140.18,
+        145.4
+    ],
+    [
+        " Yep. The other night I said, hey, JT, can you do like a strength conditioning product for us?",
+        145.6,
+        150.18
+    ],
+    [
+        " Yep. I was kind of doing some jits, you know, mobility and strength. You're like, hey, Joey,",
+        150.44,
+        154.92
+    ],
+    [
+        " we should collab on this thing. Yeah. Well, I mean, what a great opportunity. Well, why don't we,",
+        155.08,
+        159.46
+    ],
+    [
+        " while we're at it instead of just, yeah, why don't we just put it on a website and it can also",
+        159.64,
+        163.36
+    ],
+    [
+        " be this online program and we can add to it over time. Yeah. And I mean, I had a friend who built",
+        163.36,
+        168.16
+    ],
+    [
+        " websites part time. Yeah. And I said shout out to Rudge. Shout out to Rudge. Respect. And he did it,",
+        168.16,
+        174.74
+    ],
+    [
+        " you know, you know, we still had to invest money to make that happen. Yeah. He's like, well,",
+        174.88,
+        178.86
+    ],
+    [
+        " I'll throw a website to give a few guys, but it's still an expensive process, right? And,",
+        178.86,
+        182.94
+    ],
+    [
+        " and then the filming of the videos and everything from day one, I had a little memory pop up from",
+        182.96,
+        188.1
+    ],
+    [
+        " Alan Chan. Shout out Alan. Help get us started with the RGE. Yeah. Yeah. Yeah.",
+        188.1,
+        193.26
+    ],
+    [
+        " Medax and it was right at the end of 2018. We kind of did two shoots. Yeah. But the website",
+        193.98,
+        200.64
+    ],
+    [
+        " didn't really come about till 2009, like later in 2019, it didn't really go live. And also the",
+        200.64,
+        207.72
+    ],
+    [
+        " BGJ Fanatics thing didn't happen till September or October of 2019. Okay. So even though we had started",
+        207.72,
+        216.74
+    ],
+    [
+        " and we put working and we done all these things, it didn't really come together till kind of later",
+        216.74,
+        221.32
+    ],
+    [
+        " in the piece. Yeah. Well, I mean, specifically for the DVD, there was a shitload of work in",
+        221.32,
+        224.9
+    ],
+    [
+        " like making that because it's a toll-own format, isn't it? So it required sort of, you know,",
+        224.9,
+        229.66
+    ],
+    [
+        " graphics work and certain editing and blah, blah, blah. And all of that. And that's still out there.",
+        229.72,
+        235.82
+    ],
+    [
+        " Actually, we do get, we get questions every now and again, usually through the socials like, hey,",
+        235.9,
+        240.06
+    ],
+    [
+        " I was going to buy your DVD or I just bought it wondering what the difference is between this",
+        240.28,
+        244.78
+    ],
+    [
+        " and your online program. And anyway, the answer is the online program is constantly evolving.",
+        244.78,
+        248.68
+    ],
+    [
+        " The DVDs fixed. Yes. But, you know, it's probably going to be a collector's item at some point.",
+        248.82,
+        253.94
+    ],
+    [
+        " So we'll get your hands on it way. Still getting done. But we're like, what the fuck is a DVD?",
+        254.1,
+        261.52
+    ],
+    [
+        " He's got to talk about it. That's a digital video desk, man. He got to flash back.",
+        262.36,
+        266.74
+    ],
+    [
+        " But yeah, so anyway, we've had our online program, which has been living on a website.",
+        267.04,
+        271.98
+    ],
+    [
+        " Website looks fine. And for those of you who are using it, you know, like every, most people are like,",
+        272.9,
+        277.92
+    ],
+    [
+        " hey, the program's really good. The content's mad. Yep. What you guys have put together is sick.",
+        278.0,
+        282.3
+    ],
+    [
+        " But the website fucking sucks. It's slow. It's slow as shit. It's clunky. And what's terrible is",
+        282.98,
+        288.38
+    ],
+    [
+        " it possibly has gotten slower because we have more people using it. Yeah, more people, we add more",
+        288.38,
+        292.9
+    ],
+    [
+        " content to it. It's all built as like a WordPress website. It was never designed to be, you know,",
+        292.9,
+        299.1
+    ],
+    [
+        " to be whatever, like an efficient to use a friendly scale. That's right. We did it because we",
+        299.24,
+        304.72
+    ],
+    [
+        " thought this would be a good idea. We didn't really probably couldn't know at that time what it",
+        304.72,
+        309.92
+    ],
+    [
+        " would take to make. And also the standard for websites in the last, you know, five years has",
+        309.92,
+        315.6
+    ],
+    [
+        " gone up dramatically. Yeah. And I, yeah, people are like, people have high expectations now. Yeah,",
+        315.6,
+        320.72
+    ],
+    [
+        " they're like, if this doesn't load in three seconds, I'm out. No, three seconds isn't out. That's",
+        320.8,
+        327.48
+    ],
+    [
+        " in the load button. I'm out. I'm out. Fair enough. Yeah. This is the game. Yeah. So",
+        327.48,
+        333.1
+    ],
+    [
+        " and we went to that process right where I said, hey, maybe we could consider an app. But Joe's like,",
+        333.1,
+        339.02
+    ],
+    [
+        " oh, hang on. This isn't my first radio. I've done this dance. Let's let's work this through.",
+        339.16,
+        347.24
+    ],
+    [
+        " We talked right at the beginning. Yeah. Yeah. Because of course, like an app is the gold standard for",
+        347.42,
+        352.18
+    ],
+    [
+        " user experience, isn't it? Yeah, it is. But it's fucking expensive. And for us in the beginning,",
+        353.1,
+        357.66
+    ],
+    [
+        " it's like, well, well, dude, all we've done is spend money. We've got no income.",
+        357.8,
+        360.94
+    ],
+    [
+        " Made no money. Yeah. So, you know, what was really cool is that by waiting until now, we were able",
+        360.94,
+        366.84
+    ],
+    [
+        " to save some money to a point where we could afford to develop this app. It's been a pretty big",
+        366.84,
+        371.96
+    ],
+    [
+        " expense. But we've managed to do it. But we've also been able to refine our content. Haven't we",
+        371.96,
+        376.94
+    ],
+    [
+        " have? Yeah. So we had, you know, we had a shitload of different programs on our site. And so,",
+        376.94,
+        381.56
+    ],
+    [
+        " obviously, with that, when we set out with the app thing, we had to decide, what do we need to do",
+        382.04,
+        386.52
+    ],
+    [
+        " for this first version? Yes. And the brief for our what we decided was, well, it just has to be,",
+        386.52,
+        392.28
+    ],
+    [
+        " it has to have everything that's on the website now has to be on the app. Yeah. That's all it has",
+        392.72,
+        396.98
+    ],
+    [
+        " to be. Obviously, there's all these other features we want to have to develop down the track. Yes.",
+        396.98,
+        401.74
+    ],
+    [
+        " But for now, it's just got to deliver what we currently deliver, but be way fucking better and",
+        401.92,
+        405.84
+    ],
+    [
+        " faster and smoother. And I actually think, um, to be honest, it delivers more than that because",
+        405.84,
+        410.76
+    ],
+    [
+        " like you're saying, the refinement part of it with the programming. So, you know, based off what,",
+        410.76,
+        416.9
+    ],
+    [
+        " you out there, you guys out there have told us like, hey, you know, this and what about that? And",
+        417.16,
+        422.9
+    ],
+    [
+        " we've gone back and forth. I'm working with our own clients and what's work for us using our",
+        422.9,
+        428.94
+    ],
+    [
+        " own program? And, no, that's, that's too hard. There's always changes. There's changes. And it",
+        428.94,
+        435.7
+    ],
+    [
+        " we've been able to come to a good point. And so there's a couple of new programs in there,",
+        435.7,
+        439.52
+    ],
+    [
+        " which is really cool. Yeah. But then also, let's, let's talk about what's in there because I think",
+        439.56,
+        445.68
+    ],
+    [
+        " there's some cool things in there that which was not part of the functionality of the website.",
+        445.68,
+        450.0
+    ],
+    [
+        " And we've made this to really work for people when they're working out.",
+        450.44,
+        453.78
+    ],
+    [
+        " So I guess like the, the kind of big theme that the app brings that we've, that's new,",
+        454.32,
+        459.2
+    ],
+    [
+        " is this whole tracking and accountability page, right? Yeah. And so we've got a sort of a",
+        459.4,
+        464.02
+    ],
+    [
+        " few key areas where we're doing that. We're doing that through the stats. Yes. Right? Which",
+        464.02,
+        468.34
+    ],
+    [
+        " we'll go into the rings. We're doing it through through the actual tracking of the workouts and",
+        468.34,
+        473.74
+    ],
+    [
+        " your progress through a workout and through the cycles within that workout. Yep. And then we're",
+        473.74,
+        477.58
+    ],
+    [
+        " also doing it. We're unlike the dashboard with the base two, three, three. Yes. Which is if you",
+        477.58,
+        482.28
+    ],
+    [
+        " heard our previous episode talking about that, that's our general base recommendation of two strength",
+        482.28,
+        487.84
+    ],
+    [
+        " sessions, three mobility and three digits of classes per week. So the idea is that the app will",
+        487.84,
+        493.14
+    ],
+    [
+        " help you to track that on a daily basis. Yeah. Definitely. And I think the thing about it is",
+        493.14,
+        500.3
+    ],
+    [
+        " when you have a graphic representation, see even if you're not in the habit of writing down",
+        500.3,
+        504.96
+    ],
+    [
+        " your training, you just kind of keep a bit of a rough tally in your brain. And you're like,",
+        504.96,
+        508.76
+    ],
+    [
+        " oh, if I do a bit more, that'll be better. But what's great about actually seeing it there,",
+        508.78,
+        513.26
+    ],
+    [
+        " you're like, oh, I'm actually closer. The reminder is, is really powerful. And it's not necessarily",
+        513.26,
+        521.32
+    ],
+    [
+        " us reminding you, we're reminding you in digital form, but just having that structure there",
+        521.32,
+        525.82
+    ],
+    [
+        " built a habit. And then you're like, oh, hang on, I'm feeling pretty good with this rhythm.",
+        525.82,
+        530.58
+    ],
+    [
+        " And maybe if you've got a bit more energy, you think, oh, I'll put it in an extra session there.",
+        530.94,
+        534.08
+    ],
+    [
+        " But then also you're like, oh, hang on a bit behind. And it's not sure I haven't touched",
+        534.52,
+        538.78
+    ],
+    [
+        " mobility yet this way. Yeah, maybe I need to get a session in there or maybe I need to get in too.",
+        538.78,
+        542.74
+    ],
+    [
+        " And it's your veggies motherfuckers. Exactly. What's so good about that? Is it satisfying? Like,",
+        543.16,
+        548.28
+    ],
+    [
+        " in a very strange way, because I've been using Duolingo, right? And it's possibly one of the",
+        548.48,
+        553.7
+    ],
+    [
+        " best learning apps in the world. And I choose learning to speak English again. Again, it's going well,",
+        553.7,
+        557.46
+    ],
+    [
+        " guys. It's a gradually, gradually. I wish they taught breathing or chewing. No, it's one of those",
+        557.5,
+        563.92
+    ],
+    [
+        " things that I actually got quite hooked on. Like, yo, I've got to hit my daily kind of, like,",
+        563.92,
+        570.32
+    ],
+    [
+        " your XP of sorts. Like, I've got to do my daily thing because otherwise, I do feel a little guilty.",
+        570.4,
+        576.84
+    ],
+    [
+        " And they send you push reminders, but it's like a little less and something. Yeah, you've got to",
+        576.84,
+        581.52
+    ],
+    [
+        " do it daily less than you do. And but what I think about that is if I think about our app,",
+        581.52,
+        586.34
+    ],
+    [
+        " it's built in there. You don't necessarily need it. You just look at it and you think,",
+        586.78,
+        590.36
+    ],
+    [
+        " oh, I'm missing this. Let's complete that. There's a satisfaction in just being like, yeah, I've",
+        590.36,
+        596.92
+    ],
+    [
+        " satisfied my needs this week. And we've organized it for you. I think that's what's cool. You don't",
+        596.92,
+        606.82
+    ],
+    [
+        " so the rings piece right on the stat screen, which was really your design.",
+        606.82,
+        610.3
+    ],
+    [
+        " The you've basically got three different rings, one for strength, mobility and jiu-jitsu. And the",
+        610.84,
+        616.78
+    ],
+    [
+        " idea is that you want to close the ring at each three rings every week. And so if you hit your two",
+        616.78,
+        622.92
+    ],
+    [
+        " strength sessions, you hit one, you complete one session, you get half the ring filled, second session",
+        622.92,
+        627.62
+    ],
+    [
+        " full thing, mobility three, jiu-jitsu three. It's really simple. It's really easy. It's like, oh,",
+        627.62,
+        632.4
+    ],
+    [
+        " fuck, like I'm part way there. Yeah. Actually, it makes me think, who's our man from New York,",
+        632.4,
+        638.28
+    ],
+    [
+        " Justin? Justin. Yeah. The wedge. He posted, he tagged us in a post on his Instagram of his training card.",
+        638.5,
+        646.58
+    ],
+    [
+        " He filled out so many sessions. From his, the Hanzo Jimmy's out, I think in Jersey. Jersey,",
+        646.66,
+        650.28
+    ],
+    [
+        " yeah. Yeah. And they tick, you know, it's got like every, every week and every month on this grid.",
+        650.44,
+        654.82
+    ],
+    [
+        " And you know, it's just a fucking page full of ticks. So consistent. And it's the exact same idea.",
+        655.22,
+        659.84
+    ],
+    [
+        " You know, you're ticking it off every session. And the app is showing you, hey, this is how much you've",
+        659.96,
+        664.34
+    ],
+    [
+        " done. And this is how much is left. And also if you are a paid subscriber of our app, you get rewards.",
+        664.34,
+        669.56
+    ],
+    [
+        " You get achievements. And this is something that I was really big on because I don't know whatever",
+        670.02,
+        674.58
+    ],
+    [
+        " I've got that achievement kind of orientation on what that dopamine hit. If you complete your rings",
+        674.58,
+        679.56
+    ],
+    [
+        " for the week, you get your weekly warrior reward. Like being congrats. You hit all your rings,",
+        679.56,
+        686.26
+    ],
+    [
+        " thumbs up. If you do this consistently for four weeks and it goes through, you'll get your monthly",
+        686.26,
+        692.1
+    ],
+    [
+        " master reward. Now there's other like, they're all locked, right? Like all these achievements are locked",
+        692.1,
+        698.6
+    ],
+    [
+        " until you unlock them by doing the workouts. But here's the thing guys, this is something I want to",
+        698.6,
+        703.96
+    ],
+    [
+        " share with you, which is, it's something we haven't talked about. And it's not overly obvious in the",
+        703.96,
+        708.96
+    ],
+    [
+        " app. But you will actually get a reward for doing these things. So as you accumulate more experience",
+        708.96,
+        715.26
+    ],
+    [
+        " points and like more workouts and things like that, you actually accumulate a degree of credit,",
+        715.26,
+        720.22
+    ],
+    [
+        " like a book proof credit. And because if you're really consistent, we want to reward you. Now,",
+        720.58,
+        725.32
+    ],
+    [
+        " it's not like, oh, we're paying you to work out, but we do want to reward you for doing the right",
+        725.32,
+        730.24
+    ],
+    [
+        " thing. And that can be used in the store, which is in the app. So literally you can apply that to your,",
+        730.24,
+        737.42
+    ],
+    [
+        " you know, a shirt or an additional program or any of the number of other products that will be in",
+        737.42,
+        743.6
+    ],
+    [
+        " the site. Once you kind of save it up, like rewards, rewards points, you can literally translate it",
+        743.6,
+        749.54
+    ],
+    [
+        " to something purchasable in the store. Yeah, as you pull the proof coins. Yeah, it's nice.",
+        749.54,
+        754.24
+    ],
+    [
+        " Yeah, we've created our own crypto. Yeah, it's taking a big coin. It's pretty much. It's not a crypto.",
+        754.48,
+        759.72
+    ],
+    [
+        " It's not, don't get it twisted, guys. But, um, and look, I just, yeah, I mean, that's sort of it's",
+        760.1,
+        765.9
+    ],
+    [
+        " super fun. And if you don't like, like say, when we built that, yeah, I was like, bro, I don't",
+        765.9,
+        773.38
+    ],
+    [
+        " really like this stuff. Yeah. And I was like, oh, well, I think it works for some and not others.",
+        773.38,
+        776.76
+    ],
+    [
+        " So we're like, well, it doesn't hurt right. It's in there. And you're training and you're just",
+        776.88,
+        781.46
+    ],
+    [
+        " using it for whatever for your thing. And then I don't know, maybe one day you do go to the store",
+        781.46,
+        785.84
+    ],
+    [
+        " and you're like, oh, I got a, like a few bucks here that I can knock off like a t-shirt or a rash",
+        785.84,
+        789.56
+    ],
+    [
+        " guard. Yeah. Yeah. Fuck, I wouldn't hate on that at all. As someone who tends not to engage in",
+        789.56,
+        793.98
+    ],
+    [
+        " rewards programs, no, it's just happening in the background. They don't expire. It's none of that",
+        793.98,
+        798.86
+    ],
+    [
+        " shit. Like we know, fucking frequent fly points or whatever. No, it's not, it's not like that. But",
+        798.86,
+        803.06
+    ],
+    [
+        " it's just I feel I wanted to do it as a nod to our consistent people out there because we've got",
+        803.06,
+        808.7
+    ],
+    [
+        " shout out to you for plugging away and staying consistent. Like you deserve a pat, you know,",
+        808.7,
+        815.1
+    ],
+    [
+        " pat on the back, well done. And I feel like it's just a little nice inbuilt thing there.",
+        815.28,
+        819.02
+    ],
+    [
+        " Journal. Journal. Other feature, which is great. Yeah. So this is, so these are all interconnected,",
+        819.94,
+        825.54
+    ],
+    [
+        " right? Yeah. And so the journal is pretty simple. We wanted to give you guys the ability to just",
+        825.56,
+        830.54
+    ],
+    [
+        " track your Jiu-Jitsu training. Now, strength, Jiu-Jitsu mobility, as you would know, we see it all",
+        830.54,
+        839.06
+    ],
+    [
+        " as interconnected. So our app obviously deals with strength and mobility side. We're not teaching you",
+        839.06,
+        844.32
+    ],
+    [
+        " any Jiu-Jitsu, but we thought, well, if we just gave you the ability to track your Jiu-Jitsu training,",
+        844.32,
+        848.42
+    ],
+    [
+        " then the app can take that into account amongst everything else. So the journal's super simple.",
+        848.68,
+        852.76
+    ],
+    [
+        " The journal just gives you the calendar and then it gives you three buttons, Jiu-Jitsu,",
+        853.24,
+        857.58
+    ],
+    [
+        " strength and mobility. And you can log those sessions. Now, if you're doing your mobility and",
+        857.94,
+        863.36
+    ],
+    [
+        " strength within the app, like you're following our programs, then that will automatically be logged",
+        863.36,
+        868.14
+    ],
+    [
+        " for you as you complete workouts. But if you say go and do a training session with another friend,",
+        868.14,
+        874.3
+    ],
+    [
+        " you go lift some weights, you're following their program, or let's say you use our app and you",
+        874.38,
+        878.08
+    ],
+    [
+        " currently not following any of our programs, you can just log external sessions as you wish. So maybe",
+        878.08,
+        882.98
+    ],
+    [
+        " you did a 10-minute stretch that wasn't strictly prescribed by us. You can log that as a mobility",
+        882.98,
+        887.84
+    ],
+    [
+        " session and you get the points and the rings, you know, it's acknowledged on the rings.",
+        887.84,
+        892.12
+    ],
+    [
+        " But likewise with your Jitsu. So when you finish your Jiu-Jitsu training, you jump on the app,",
+        892.34,
+        895.72
+    ],
+    [
+        " boom, log my Jitsu, the rings recognize it, the app recognizes it, and then it's going to inform",
+        895.84,
+        900.58
+    ],
+    [
+        " you on the wake of how you're going. And I think that's the good thing too, because this is something,",
+        900.58,
+        905.1
+    ],
+    [
+        " I had looked at a lot of other apps before we went down this path. And the free version of a",
+        905.72,
+        912.96
+    ],
+    [
+        " habit, because I just want you to pay to use it. And you're like fair play, like that's the business,",
+        912.96,
+        917.38
+    ],
+    [
+        " right? But I said to Jiu, like let's make out good. So even if you don't subscribe, like you don't",
+        917.54,
+        926.16
+    ],
+    [
+        " pay to use it, the free functionality is great. You can use the journal, the rings work, you know,",
+        926.16,
+        931.64
+    ],
+    [
+        " like you can access some of our programs, but you can also just use, like if you're doing yoga or",
+        931.72,
+        938.8
+    ],
+    [
+        " you're doing other things, you can still use that function on your phone. Yeah, I think that's",
+        940.04,
+        945.48
+    ],
+    [
+        " the really good thing about it that you can get benefit from it. You don't have any money.",
+        945.48,
+        950.68
+    ],
+    [
+        " Which on that, we're like, yeah, sick, let's make it, you get every program, you can access every",
+        950.94,
+        954.96
+    ],
+    [
+        " program. You just get the first training cycle. Yeah, you don't get the whole program, you get",
+        954.96,
+        959.66
+    ],
+    [
+        " enough that it's you get a good feel for it. We're probably going to change that at some point.",
+        959.66,
+        963.3
+    ],
+    [
+        " Yeah. Like it's pretty fucking liberal at the moment. It's all the shit that we've built and",
+        963.44,
+        966.84
+    ],
+    [
+        " designed. And we're like, hey, it's all here for free. One cycle is generally in just me six weeks.",
+        966.84,
+        971.88
+    ],
+    [
+        " Yeah. The first six weeks of any program. So like you could just jump from program to program",
+        972.1,
+        976.82
+    ],
+    [
+        " for a year or so, you know, without paying a cent. Which we're happy for, but probably at a point",
+        976.82,
+        981.8
+    ],
+    [
+        " we'll say, all right, these select programs are locked because definitely like say with standards",
+        981.8,
+        987.18
+    ],
+    [
+        " and with some of the newer stuff we've got coming out and the stuff we plan to do over the next year.",
+        987.18,
+        990.88
+    ],
+    [
+        " Um, there's a like there's a lot of shit going into that definitely. And also the cool thing is",
+        991.86,
+        997.04
+    ],
+    [
+        " that we've got new programs there. There will be new content coming. And if you want to see that",
+        997.04,
+        1003.1
+    ],
+    [
+        " and access that, you've got a chance to just learn what we do. You know, it's very simple. There's no",
+        1003.1,
+        1009.6
+    ],
+    [
+        " canceling. There's no bush. Like you're not going to accidentally get charged. It's a sign up. If you",
+        1009.6,
+        1014.5
+    ],
+    [
+        " use it, awesome. If you don't, you can delete it. And that's totally up to you. So I think that",
+        1014.5,
+        1018.86
+    ],
+    [
+        " freedom and that easiness is cool. I think that's something that I would want with other fitness apps",
+        1019.18,
+        1025.82
+    ],
+    [
+        " which I haven't had. Yeah. And that's why I like that. But the other thing which is nice is our",
+        1025.82,
+        1031.48
+    ],
+    [
+        " community. We built our own Facebook. We, well, of sorts. What kind of did we burpy suck? Yeah.",
+        1031.48,
+        1038.8
+    ],
+    [
+        " Well, yeah, but he's training MMA now. Brass. He's one of us. Team suck, bro. No, no, we are,",
+        1038.8,
+        1046.22
+    ],
+    [
+        " well, because we have a Facebook group. It's pretty big. There's a couple of thousand people there.",
+        1046.22,
+        1049.4
+    ],
+    [
+        " Yeah. You know, we're reasonably active on it. I think the thing is this. I'm always in there",
+        1049.6,
+        1054.46
+    ],
+    [
+        " every week, but I had made a deal with myself probably a year or more ago. I got to get off Facebook.",
+        1054.46,
+        1060.22
+    ],
+    [
+        " And I'm not enjoying it. You know, I'm the same. It's kind of been, yeah, we've been phasing out.",
+        1060.72,
+        1065.06
+    ],
+    [
+        " Yeah. But the group's still really active. And the groups are like a really great gathering space,",
+        1065.26,
+        1069.76
+    ],
+    [
+        " right? Yes. And good questions, good people, good sharing. And we make sure it is that way. You",
+        1069.78,
+        1075.86
+    ],
+    [
+        " don't know spam. No negativity. Just let's let's help people with that. But I had said, and I think",
+        1075.86,
+        1082.48
+    ],
+    [
+        " we'd both agreed we wanted our community away from Facebook. Yeah. And we have that channel there.",
+        1082.48,
+        1088.86
+    ],
+    [
+        " Yeah. We basically built like it's like a 19, it's like a 2001 Facebook group in terms of",
+        1089.32,
+        1095.38
+    ],
+    [
+        " functionality. Yeah, it's pretty big. You can post photos, videos, you can put links, you can't tag",
+        1095.38,
+        1099.92
+    ],
+    [
+        " people. No, no, you can't message anyone privately. Not yet. You can't. There's no fucking, there's",
+        1099.92,
+        1104.68
+    ],
+    [
+        " like, there's no badges or statuses or whatever. It's just, you know, it's all chronological.",
+        1104.68,
+        1109.8
+    ],
+    [
+        " Yeah. So it's whichever post went up last is the one that's there, you know, top of the list.",
+        1110.14,
+        1113.88
+    ],
+    [
+        " I'm actually really excited by that because I think that it's like WhatsApp. Yeah.",
+        1114.44,
+        1119.74
+    ],
+    [
+        " It's actually just like WhatsApp. Yeah. But you can, it's probably has a bit more functionality.",
+        1120.02,
+        1123.76
+    ],
+    [
+        " It does. And if you look at it these days, like every motherfucker uses WhatsApp or telegram,",
+        1124.14,
+        1127.86
+    ],
+    [
+        " like, yeah, it's just the ability to kind of message publicly in the chat. Yeah, you know, I'm pumped",
+        1127.86,
+        1134.24
+    ],
+    [
+        " for that. I mean, the fact that you don't have to go to another app, you don't have to get",
+        1134.24,
+        1138.28
+    ],
+    [
+        " fucking sidetracked by what you're antiposted from Christmas photos or you know what I mean,",
+        1138.28,
+        1143.8
+    ],
+    [
+        " no, you're not getting any spammy ads on how you could start your own course today, work",
+        1143.9,
+        1148.92
+    ],
+    [
+        " independently from home. Like fuck that. I just get ads for, for like brides from overseas.",
+        1148.92,
+        1154.64
+    ],
+    [
+        " You get course invites and get caught, you know, I get ads on how does that podcast?",
+        1154.92,
+        1159.24
+    ],
+    [
+        " Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck. Fuck.",
+        1161.74,
+        1164.4
+    ],
+    [
+        " It's funny how it goes. But I feel I have my goal is just be more open with my own training.",
+        1164.4,
+        1174.14
+    ],
+    [
+        " Like a train almost every single day. Like a train five, six days a week. I'm going to. All right,",
+        1174.3,
+        1178.4
+    ],
+    [
+        " big guy. Fuck. No, whatever. I'm just saying that I don't. I have been a bit reticent.",
+        1178.48,
+        1183.54
+    ],
+    [
+        " I haven't been posting on Instagram lately because like sometimes my training is not,",
+        1183.9,
+        1188.18
+    ],
+    [
+        " it's not sexy. It's like, here's me doing some shoulder rehab. Here's me buddy. That's training.",
+        1188.62,
+        1193.5
+    ],
+    [
+        " That's struck like, here's me struggling to touch my toes again. Like why? You know, but it's one of",
+        1193.78,
+        1198.64
+    ],
+    [
+        " those things I am doing it every day, but I think because of the way Instagram works and Facebook",
+        1198.64,
+        1204.18
+    ],
+    [
+        " works, it's all about like your best self. And actually what what we'd like to see is like share",
+        1204.18,
+        1210.26
+    ],
+    [
+        " what maybe isn't working for you so we can help you because it is a supportive community. And I think",
+        1210.26,
+        1216.68
+    ],
+    [
+        " it's all good if people want to rip me for something. I mean, I know Joe will. Joe's first with",
+        1216.68,
+        1221.02
+    ],
+    [
+        " the feedback. Yeah, that looks terrible. Yeah. Yeah. You look out on the lead. No rep. Do again.",
+        1221.02,
+        1226.82
+    ],
+    [
+        " You know, and that's cool. That's cool. And but the idea is that I want to engage with our people",
+        1227.08,
+        1233.52
+    ],
+    [
+        " more because we've got this big group of people. I'd much rather be on our app talking to our",
+        1233.52,
+        1237.74
+    ],
+    [
+        " community than being doing scrolling on Instagram. 100%. That's where I want to be. So I'm pump,",
+        1237.74,
+        1243.38
+    ],
+    [
+        " I'm pumped for that and seeing people get into that. Yeah. And that will evolve over time. I believe",
+        1243.64,
+        1248.58
+    ],
+    [
+        " I feel we'll be able to make it more tech. Yeah. The goal, the goal there that we kind of discuss",
+        1248.58,
+        1252.8
+    ],
+    [
+        " was like to eventually have it so we can have multiple groups. Different groups can be covering",
+        1252.8,
+        1257.94
+    ],
+    [
+        " different topics like a strength one, a mobility one, entry. Yeah. Yeah. Exactly. So that it kind of",
+        1257.94,
+        1263.82
+    ],
+    [
+        " organizes or categorizes the content a bit more. But for now, as is kind of the case with the whole",
+        1263.82,
+        1269.52
+    ],
+    [
+        " app, we're like, all right, what's the bare minimum we can do to just give that functionality?",
+        1269.52,
+        1272.66
+    ],
+    [
+        " Look, I'm going to give Joe credit here. I want to do more with this, but I was like,",
+        1273.14,
+        1277.94
+    ],
+    [
+        " ah, minimal less. And I was like, all right. And then when we, so I'm talking about the work out",
+        1278.02,
+        1282.66
+    ],
+    [
+        " to you guys, like, so when you go into say, I want to do strength 101 or want to do the",
+        1282.66,
+        1287.2
+    ],
+    [
+        " swall program, trying to get Jack, like Julian, the cute chicken boy, chicken rice,",
+        1287.2,
+        1292.6
+    ],
+    [
+        " um, you click into it, train now. What is cool? There's a few functions there. So it has the exercise.",
+        1293.74,
+        1300.12
+    ],
+    [
+        " If you don't know the exercise, you click on it and you'll get an option to play the demo video",
+        1300.3,
+        1304.48
+    ],
+    [
+        " and play the, um, play the instructional. If you want, if you don't know what it is,",
+        1304.48,
+        1309.0
+    ],
+    [
+        " originally there was videos already kind of, you know, thumbnailed up and I was like,",
+        1309.28,
+        1315.0
+    ],
+    [
+        " yeah, I want an image. I want a gift of the exercise. And I was like, no, man, like it's too cluttered.",
+        1315.1,
+        1319.4
+    ],
+    [
+        " It actually looks super clean now. And there's two features there, which I really like.",
+        1319.54,
+        1324.0
+    ],
+    [
+        " So you can click. There's a, there's a little, uh, tick on the end. If you want to tick off that",
+        1324.6,
+        1330.28
+    ],
+    [
+        " you've completed the exercise, which you will need to do once you've done it. But there's also a",
+        1330.28,
+        1334.48
+    ],
+    [
+        " little scribe button with a little panel, little journal. So you can write down the weights that you",
+        1334.48,
+        1339.94
+    ],
+    [
+        " did. So you can actually record it because you forget like a week later, what do I do?",
+        1339.94,
+        1344.34
+    ],
+    [
+        " Oh, that's right. I do 24 killers. And you've got, I'm feeling stronger today. I'm going to try",
+        1344.68,
+        1348.42
+    ],
+    [
+        " 28 or whatever it is. And you can actually log that and that will come through in the journal",
+        1348.42,
+        1353.1
+    ],
+    [
+        " section, which is great. Yeah. And then once you've ticked it off as you go, I find a very satisfying",
+        1353.1,
+        1358.22
+    ],
+    [
+        " as tick that box. I'm going to achieve a boy. And then you get to the bottom, you click the button",
+        1358.22,
+        1364.08
+    ],
+    [
+        " for complete workout and that will register on the rings and. Yeah. It's not, I always do that.",
+        1364.08,
+        1368.98
+    ],
+    [
+        " The dashboard shows you get the little spinning star. Oh, the gold star.",
+        1369.16,
+        1371.84
+    ],
+    [
+        " Yeah. Yeah. Oh, man, I love that. I like complete. I just don't know how you go check my",
+        1372.56,
+        1376.22
+    ],
+    [
+        " stuff. I mean, I know I've completed it. But I can make sure I got the ring. Yeah. Thank you,",
+        1376.22,
+        1379.8
+    ],
+    [
+        " app. I feel validated now. Yeah. The little journal piece there, that was, that was huge. Like",
+        1379.9,
+        1384.76
+    ],
+    [
+        " we all, we've sort of given people different ways of recording workouts on our existing program.",
+        1384.76,
+        1390.8
+    ],
+    [
+        " We have the, yeah, the standard's PDF that a lot of people printed out and used and that kind of",
+        1390.82,
+        1395.52
+    ],
+    [
+        " thing. We've obviously spoken a lot about journaling. Yes, of course. Using that like pen to paper.",
+        1395.52,
+        1399.94
+    ],
+    [
+        " But the simplest thing is, you know, as you're doing your sets, you can just throw how many,",
+        1400.32,
+        1404.82
+    ],
+    [
+        " how many reps you did, how much weight you lifted into the app. And then the next time you come to",
+        1404.92,
+        1408.88
+    ],
+    [
+        " that exercise, you can hit journal and it will show you your previous entries. Yeah. So it just makes",
+        1408.88,
+        1413.18
+    ],
+    [
+        " it real easy to just be consistent and make sure that you are pushing for that little bit of extra",
+        1413.18,
+        1418.26
+    ],
+    [
+        " progress at every workout. Yeah. It's really nice. And I think it's funny how we look at it as just",
+        1418.26,
+        1424.48
+    ],
+    [
+        " being small, but it's amazing what that does for your motivation. Oh, yeah. We're just keeping",
+        1424.48,
+        1428.7
+    ],
+    [
+        " you consistent. Yeah. And that's what it's all about. Yeah. And I think it, I think a big",
+        1428.94,
+        1432.92
+    ],
+    [
+        " issue for a lot of people with regular, like who are doing regular training is that they aren't",
+        1432.92,
+        1437.3
+    ],
+    [
+        " necessarily pushing for progress every session. Yeah. Or at least every week. Yes. And so with a",
+        1437.3,
+        1443.14
+    ],
+    [
+        " couple of tools like that, it sort of just forces you to do it. And remind you just gives you a little",
+        1443.14,
+        1447.84
+    ],
+    [
+        " pushback. Hey, you already did that last week. What are you doing this week? Maybe two extra reps.",
+        1447.84,
+        1452.12
+    ],
+    [
+        " Yeah. Exactly. Yeah. Just something just something as small as that because the compounding effect of",
+        1452.28,
+        1456.74
+    ],
+    [
+        " that is massive. Because if you think I've trained for four weeks or six weeks, you do a cycle",
+        1456.74,
+        1460.84
+    ],
+    [
+        " and not a good Ryan cycle, not a levy king cycle. If you've done six weeks of training,",
+        1460.84,
+        1468.08
+    ],
+    [
+        " sub primal. If you're able to add one rep each week and you started at say four sets of eight,",
+        1468.26,
+        1478.44
+    ],
+    [
+        " at the end of that, you know, you're doing four sets of 12. Like the title training volume,",
+        1478.88,
+        1483.98
+    ],
+    [
+        " you're able to perform. You are significantly more capable at the end of that. And you can actually",
+        1483.98,
+        1490.2
+    ],
+    [
+        " look at that. It's documented. So I think that's great. And the other thing is two standards.",
+        1490.2,
+        1494.84
+    ],
+    [
+        " We've kept the mad function on standards that if you feel like an exercise is getting to it,",
+        1495.22,
+        1500.4
+    ],
+    [
+        " you know, like say your legs are going really well and you're pistiling and stripping away,",
+        1500.44,
+        1504.54
+    ],
+    [
+        " you can progress it. Yeah. That dynamic function. I love that. Yeah. It's great. But I'm telling you",
+        1504.98,
+        1510.68
+    ],
+    [
+        " that was a shit ton of work. Because like one exercise like squad or Ford fault, like, you know,",
+        1510.68,
+        1519.0
+    ],
+    [
+        " it has like trunk 26 variations. Two videos. You see one exercise on the program. But behind that,",
+        1519.38,
+        1527.08
+    ],
+    [
+        " there's like 27 different variations. I was uploading those videos with all of my standards.",
+        1527.08,
+        1534.04
+    ],
+    [
+        " So what that is for folks who don't know without program standards and with other programs",
+        1534.04,
+        1540.22
+    ],
+    [
+        " we'll have in the future. Sometimes as as programmers, right, as coaches, we sometimes we just",
+        1540.22,
+        1546.98
+    ],
+    [
+        " want you to do the same exercise consistently for a period of time. Yep. But sometimes we want to",
+        1546.98,
+        1551.74
+    ],
+    [
+        " we need to find the right variation for you. And this is what this is the functionality with",
+        1551.74,
+        1555.8
+    ],
+    [
+        " standards whereby it starts you at the very basic level of of that exercise. But if you're whatever",
+        1555.8,
+        1561.74
+    ],
+    [
+        " you have more training experience or you're particularly good at that exercise, you should be able",
+        1561.74,
+        1565.46
+    ],
+    [
+        " to progress through different variations that get progressively harder and more challenging",
+        1566.48,
+        1570.36
+    ],
+    [
+        " until you find the one that's applicable for you. It's your level. And so that's the idea is that",
+        1570.36,
+        1574.66
+    ],
+    [
+        " as you become stronger and more mobile with the program, you can progress certain exercises",
+        1574.66,
+        1578.68
+    ],
+    [
+        " to make sure that you're always getting the stimulus you need to progress. Rather than maybe doing",
+        1578.68,
+        1584.16
+    ],
+    [
+        " something where like, oh, this part's good, but this bit's a little bit easy. Yeah. You want to make",
+        1584.16,
+        1587.92
+    ],
+    [
+        " sure that you're on the money every time. Yeah. So if you're someone who's probably more on the",
+        1587.92,
+        1591.82
+    ],
+    [
+        " stronger side, but less mobile, the mobility will still match and challenge where you're at.",
+        1591.82,
+        1597.84
+    ],
+    [
+        " But you can still push your strength level or if you're somebody who's, you know,",
+        1598.26,
+        1602.2
+    ],
+    [
+        " really well developed in the upper body, but struggling with the legs, you know, you can still be",
+        1602.68,
+        1607.54
+    ],
+    [
+        " challenged across the board and have a very unique workout to your level. Yeah. So I think, you know,",
+        1607.54,
+        1614.32
+    ],
+    [
+        " if you're if you're the real flexible person, it's not that strong. You're still going to get",
+        1614.36,
+        1618.36
+    ],
+    [
+        " challenged by the mobility. And that's the thing about it. It's that really nice hybrid of",
+        1618.46,
+        1623.76
+    ],
+    [
+        " strength and mobility. Yeah. And I think the more people get into that, people are going to get",
+        1623.76,
+        1629.5
+    ],
+    [
+        " really rapid gains. So, man, I'm pumped. It's, it's, I mean, the time we're saying this, it's",
+        1629.5,
+        1635.28
+    ],
+    [
+        " already out on Android. Yes. Obviously, by the time this episode down, it'll be out on App Store 2.",
+        1635.28,
+        1639.66
+    ],
+    [
+        " We're going through that right now. Just so you go, what do we like attend? Two week delay on",
+        1639.94,
+        1648.34
+    ],
+    [
+        " we should do a couple of quick, commonly asked questions about this, I think, for our users. Sure.",
+        1648.34,
+        1653.88
+    ],
+    [
+        " One question that's going to come up is for people who are already subscribed to our program. Yes.",
+        1654.14,
+        1657.36
+    ],
+    [
+        " We are. And I can't say that this will be done by the time you're hearing this, but we are in the",
+        1657.76,
+        1661.96
+    ],
+    [
+        " process of organizing the transition of all of our current subscribers to the new platform. Yeah.",
+        1661.96,
+        1667.62
+    ],
+    [
+        " It may not be done yet. We will most definitely let you know once it's done. So you'll, you know,",
+        1668.18,
+        1671.74
+    ],
+    [
+        " whatever, whether you receive new login information or it's a case of just using your existing,",
+        1671.84,
+        1675.94
+    ],
+    [
+        " that'll be the case. However, if we haven't told you about that, then it hasn't happened yet.",
+        1676.48,
+        1681.02
+    ],
+    [
+        " Yep. So if you are an existing subscriber and you do want to use the app, you are just going to have",
+        1681.38,
+        1684.66
+    ],
+    [
+        " to sign up as a new person. Yep. Don't, don't pay for anything there. Just, no, log in, just do the,",
+        1684.66,
+        1689.84
+    ],
+    [
+        " the free version because obviously once we transition your subscription, then you'll get full access.",
+        1689.84,
+        1694.0
+    ],
+    [
+        " Yeah. So understand that guys full transparency. If you have, like just a Christmas, she paid for 12",
+        1694.24,
+        1700.6
+    ],
+    [
+        " months, you will have that 12 month access to the app. Yeah. We are honoring all of that and making",
+        1700.62,
+        1706.7
+    ],
+    [
+        " sure that everybody who's a supporter of ours, paid supporters is going to get that. But then also,",
+        1706.7,
+        1712.66
+    ],
+    [
+        " well, I was going to say, if you get the app for free, you download it. It's, there's totally",
+        1712.84,
+        1719.52
+    ],
+    [
+        " free to download, but you want to become a paid subscriber. Go to our website. There'll be a link",
+        1719.52,
+        1725.14
+    ],
+    [
+        " in the show notes of this episode. Yep. Help us, help us grow the app, make it better for you guys.",
+        1725.14,
+        1731.8
+    ],
+    [
+        " Do your paid subscription via the bulletproof for BGJ apps like the website. The website, yeah,",
+        1732.52,
+        1739.48
+    ],
+    [
+        " rather than the app store, which just means that we don't have to pay such big commissions to the",
+        1739.6,
+        1743.04
+    ],
+    [
+        " app stores. Yeah. Basically. Yeah. And then we can read because the goal is to reinvest that to make",
+        1743.04,
+        1747.96
+    ],
+    [
+        " this better because a lot of people have asked for a lot of features. If I could show you the list of",
+        1747.96,
+        1753.58
+    ],
+    [
+        " JT's dream features that pretty much every week was like, Hey, so I know that we said we're just",
+        1753.66,
+        1757.82
+    ],
+    [
+        " going to keep it simple, but do I can we could do this? We have a holographic representation",
+        1757.82,
+        1762.1
+    ],
+    [
+        " of I've been thinking about the app and I think we need this feature. So all that shit is yet,",
+        1762.1,
+        1768.92
+    ],
+    [
+        " most of that shit is yet to come right. It's coming. What's another thing that might come up? It is",
+        1769.04,
+        1773.12
+    ],
+    [
+        " available on on on Apple and on iOS and Android. So it'll be functioning across both. There is still",
+        1773.12,
+        1779.48
+    ],
+    [
+        " we also have a new website. So the app will also work like there will be a new web page. So if you're",
+        1779.7,
+        1785.38
+    ],
+    [
+        " a subscriber on on the app and you wish that you could do it through your desktop or you want to do",
+        1785.38,
+        1790.16
+    ],
+    [
+        " it through a television, you can totally log in on a computer. Totally do it. That's super slick.",
+        1790.16,
+        1794.08
+    ],
+    [
+        " Is there anything else that people might want to know? I think the thing is which is very easy",
+        1794.48,
+        1800.3
+    ],
+    [
+        " about all of it is you can you can manage your own subscriptions. So you don't, you know, it's not a",
+        1800.3,
+        1804.72
+    ],
+    [
+        " big deal if you want to cancel. You want to cancel? Yeah. Really easy to pay for that. It's going to",
+        1804.72,
+        1809.22
+    ],
+    [
+        " be 20 years up front. You can do that. Great. Great options. If you appreciate that, you'll get a",
+        1809.22,
+        1813.94
+    ],
+    [
+        " little achievement badge. Lifetime. Oh, gee. But then I think the other thing too is like the blogs are on",
+        1813.94,
+        1820.62
+    ],
+    [
+        " there, the podcast access. There's a lot of good things. But I mean, the thing I'm most excited about",
+        1820.62,
+        1826.3
+    ],
+    [
+        " is just getting everyone together in there and she's using the hell out of it. Yeah, me too. Look,",
+        1826.3,
+        1831.76
+    ],
+    [
+        " there's going to be little bugs and stuff. I think we've spent so much time waiting out everything we",
+        1831.96,
+        1836.6
+    ],
+    [
+        " can. It seems perfect right now, but no piece of tech is ever perfect. So we appreciate your",
+        1836.6,
+        1842.06
+    ],
+    [
+        " patience with that, but also feedback. If you got something like, this is a bit annoying and it's",
+        1842.06,
+        1845.98
+    ],
+    [
+        " keeps happening. Please tell us. We'll sort that shit out. We got to we can turn it around. We got",
+        1845.98,
+        1849.84
+    ],
+    [
+        " a team of developers now and our goal over just more pretty much forever now that we've done it. Yeah,",
+        1849.84,
+        1855.16
+    ],
+    [
+        " is just to keep sending them shit. Hey, this needs to be improved. This needs to be changed that.",
+        1855.28,
+        1858.76
+    ],
+    [
+        " Yeah, whatever it is. So really don't be shy and flicking us an email or whatever mentioning it on",
+        1858.96,
+        1864.0
+    ],
+    [
+        " the community group. Yeah, all that bring it up because we can we can get it done. Thanks, fam.",
+        1864.18,
+        1869.36
+    ],
+    [
+        " If you don't know where to get us, of course, bulletproof for BJJ.com. You can do the whole",
+        1869.54,
+        1873.76
+    ],
+    [
+        " sign up and shit there and the apps available through the app stores. Oh, yeah. Thanks, fam.",
+        1873.76,
+        1877.8
+    ],
+    [
+        " Catch you guys next week.",
+        1878.0,
+        1878.7
+    ]
+]

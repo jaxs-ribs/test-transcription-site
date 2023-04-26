@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 1rem;
+    background-color: #181818;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    font-weight: 500;
+    text-align: center;
+    color: #1DB954;
+}
+
+input[type="text"] {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    background-color: #404040;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+}
+
+#episode-list {
+    margin-bottom: 1rem;
+}
+
+.episode-link {
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 0.5rem;
+    background-color: #404040;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+}
+
+.episode-link:hover {
+    background-color: #505050;
+}
+
+.transcript {
+    display: flex;
+    margin-bottom: 1rem;
+    align-items: center;
+}
+
+.timestamp {
+    flex: 1;
+    font-weight: bold;
+    padding: 0.25rem 0.5rem;
+    border-radius: 5px;
+    background-color: #1DB954;
+    margin-right: 0.5rem;
+}
+
+.content {
+    flex: 3;
+    padding: 0.25rem 0.5rem;
+    background-color: #2C2C2C;
+    border-radius: 5px;
+}
+
+mark {
+    background-color: #bada55;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+.timestamp {
+    cursor: pointer;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+#episode-list {
+    max-width: 600px;
+    margin: 0 auto;
+}
+#search-box {
+    max-width: 600px;
+    margin: 0 auto 1rem auto;
+    display: block;
+}
+
+body, input[type="text"] {
+    font-family: "Roboto", sans-serif;
+}
